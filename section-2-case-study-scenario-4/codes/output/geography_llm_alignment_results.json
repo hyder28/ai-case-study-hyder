@@ -1,0 +1,213 @@
+{
+  "per_question": [
+    {
+      "question_number": 1,
+      "question_text": "1 Cluster 1: Geography in Everyday Life\nA group of students investigated the experience of visitors at the Gallop Extension in the Singapore\nBotanic Gardens. The Gallop Extension is an eight-hectare area with many features which aim\nto bring nature closer to visitors while educating them on Singapore\u2019s forest ecosystems and\nconservation efforts.\nStudy Fig 1.1 (Insert), which shows a map of the Gallop Extension in the Singapore Botanic\nGardens.\n(a) The students designed a closed-ended questionnaire to test the hypothesis: \u2018Knowledge\nabout the features of the Gallop Extension increases as the length of visit to that part of the\nGardens increases\u2019.\n(i) With reference to Fig. 1.1, explain how the students could sample visitors to collect the\ndata needed to test their hypothesis.\n\n [5]\n(ii) With reference to Fig. 1.1, state three questions and response options which the students\ncould use for their closed-ended questionnaire to test their hypothesis.\n\n [3]\n\n(iii) Suggest how the students could manage the limitations of unforeseen factors affecting\nthe study.\n\n [3]\n(b) Many guided tours are provided at the Singapore Botanic Gardens. The outdoor Gallop tour\nis free, but a fee is charged for the National Orchid Garden tour which is partly indoor. Both of\nthese monthly tours must be pre-booked. The students wanted to test the hypothesis: \u2018Fewer\npeople attend the guided tours when the wind speed increases\u2019. They obtained wind speed\ndata from the Meteorological Service\u2019s website in Singapore to aid their investigation.\nStudy Fig. 1.2 (Insert), which shows the results from the students\u2019 research into these guided\ntours.\n(i) Using Fig. 1.2, compare the attendance between the National Orchid Garden tour and\nthe Gallop tour.\n\n [3]\n\n(ii) Using Fig. 1.2, evaluate how well the data supports the students\u2019 hypothesis.\n\n [6]\n[Total: 20]",
+      "matched_clusters": [
+        "Cluster 1: Geography in Everyday Life"
+      ],
+      "matched_topics": [
+        "Cluster 1 Topic 1.1: Geographical Methods"
+      ],
+      "assessment_objectives": [
+        "AO1",
+        "AO2"
+      ],
+      "alignment_score": 5.0,
+      "alignment_strength": "Strong",
+      "alignment_explanation": "The question aligns with Cluster 1: Geography in Everyday Life, specifically focusing on geographical methods such as sampling and questionnaire design. It tests students' understanding of data collection methods and their application in a real-world context, which is a key aspect of Topic 1.1.",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "chunk_id": 12,
+          "similarity": 0.6142066717147827,
+          "text": "\u2022 \nTopic 4.1 \u2013 Plate Tectonics  \n\u2022 \nTopic 4.2 \u2013 Earthquakes and Volcanoes  \n\u2022 \nTopic 4.3 \u2013 Disaster Risk Management  \nCluster 2: Tourism   \n\u2022 \nTopic 2.1 \u2013 Tourism Activity  \n\u2022 \nTopic 2.2 \u2013 Tourism Development  \n\u2022 \nTopic 2.3 \u2013 Sustainable Tourism Development \nCluster 5: Singapore  \n\u2022 \nTopic 5.1 \u2013 Small Island City-State  \n\u2022 \nTopic 5.2 \u2013 Opportunities and Challenges  \n\u2022 \nTopic 5.3 \u2013 Sustainable and Resilient Singapore \nCluster 3: Climate  \n\u2022 \nTopic 3.1 \u2013 Weather and Climate  \n\u2022 \nTopic 3.2 \u2013 Climate Change  \n\u2022 \nTopic 3.3 \u2013 Climate Action  \nExtended Fieldwork (10 weeks)\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n8 \nSYLLABUS CONTENT \n \nCluster 1: Geography in Everyday Life  \n \nGeography is more than a world knowledge. Geographers make sense of their everyday lives and the world \naround them by viewing it through a \u2018geographical lens\u2019 or concept. Concepts introduce the diversity of ways \nt"
+        },
+        {
+          "rank": 2,
+          "chunk_id": 9,
+          "similarity": 0.5995280742645264,
+          "text": "ks) \n\u2022 \nQuestion 3: \nCluster 3 \u2013 Climate (15 marks) \n \nEach structured question will consist of no more than 9 sub-parts. \n \nCandidates will be required to answer one 9-mark question testing AO3 in either \nQuestion 2 or Question 3. This question will be marked using generic level \ndescriptors. All other questions in this paper will be point-marked.  \n \n* Question 1 is on fieldwork. The fieldwork context may or may not be based on any of \nthe clusters in the syllabus. \nPaper 2 \n \n1h 45min \n \n50 marks \n \n50% \nCandidates answer three compulsory structured questions.  \n \n\u2022 \nQuestion 1: Cluster 1 \u2013 Geography in Everyday Life (Topics 1.1 and 1.2)  \n(15 marks)  \n\u2022 \nQuestion 2: Cluster 4 \u2013 Tectonics (15 marks) \n\u2022 \nQuestion 3: Cluster 5 \u2013 Singapore (20 marks) \n \nEach structured question will consist of no more than 9 sub-parts. \n \nCandidates will be required to answer one 9-mark question testing"
+        },
+        {
+          "rank": 3,
+          "chunk_id": 26,
+          "similarity": 0.5662983059883118,
+          "text": "sampling \n \n2 \nClosed-ended questionnaire surveys \n(a) create pre-defined responses to questions that are limited to short \nphrases, single words or numbers  \n(b) use rating scales to guide responses including the Likert scale, \nfrequency scale and ranking scale \n \n3 \nMental maps \n(a) visualise experiences by drawing features and adding labels onto the \nbase map of a study area \n(b) conduct semi-structured interviews with open-ended questions \nexploring features and labels added to the map\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n13 \nKey Questions \nContent \n3 How to process and \nanalyse data?   \n1 \nClosed-ended questionnaire surveys \n(a) interpret responses using measures of frequency including counts \nand percentages \n(b) interpret responses using measures of central tendency including \nmean, mode and median  \n \n2 \nMental maps \n(a) analyse how well maps represent reality, and how f"
+        },
+        {
+          "rank": 4,
+          "chunk_id": 79,
+          "similarity": 0.5594216585159302,
+          "text": "onomy. Much creativity and innovation would be needed to overcome its \nlimitations to maintain its attractiveness as a tourist destination.  \n \nKey Questions \nContent \n1 \nHow might climate change \naffect Singapore? \n1 \nImpacts of climate change \n(a) rising sea level  \n(b) increased daily mean temperatures and changing weather patterns \n \n2 \nChallenges due to climate change \n(a) floods, urban heat island effect, vector-borne diseases  \n(b) threats to biodiversity, food and water insecurities \n \n3 \nOpportunities created to adapt to climate change \n(a) land reclamation, coastal management, increasing health resilience \n(b) high technology farming and development of water technologies \n2 \nHow might tectonic \nhazards affect Singapore? \n1 \nImpacts of tectonic hazards \n(a) not susceptible to majority of tectonic disasters \n(b) major tectonic movements close to the Sunda Megathrust may still \naf"
+        },
+        {
+          "rank": 5,
+          "chunk_id": 81,
+          "similarity": 0.5557613968849182,
+          "text": "m activity in Singapore \n(a) economic and social impacts \n(b) environmental impacts \n \n2 \nChallenges affecting tourism development in Singapore \n(a) intensifying regional competition and increasingly discerning visitors \n(b) ageing population, resource constraints and threats from global \nuncertainties \n \n3 \nOpportunities created to mitigate and adapt to impacts of tourism activity \nin Singapore \n(a) benefits due to growing Asia and developing partnerships with \nstakeholders to spearhead place-making initiatives  \n(b) trial sustainability solutions and develop skilled workers\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n35 \nTOPIC 5.3: SUSTAINABLE AND RESILIENT SINGAPORE \n \nAbout this Topic \n \nIn ensuring the survival, progress and future of Singapore, efforts are made by many stakeholders to work \ntowards sustainable development. Singapore employs various strategies and approaches to bui"
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "2 Cluster 2: Tourism\n(a) The growth of tourism results from the interaction between a range of factors.\n(i) Table 2.1 shows changes in household disposable income and the number of tourist\ndepartures from a developed country.\nTable 2.1\nChanges in household disposable income and international tourist departures\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019\nhousehold disposable 19.7 20.4 21.2 21.6 21.9 24.0 24.2 24.5 25.9 26.8\nincome (thousand\nUS$ per capita)\ninternational tourist 12.5 12.7 13.7 14.8 16.1 19.3 22.4 26.5 28.7 28.7\ndepartures (millions)\nUsing Table 2.1, compare the changes between household disposable income and\ninternational tourist departures.\n\n [2]\n(ii) Using Table 2.1, plot the data for 2017 to 2019 on Fig. 2.1 and draw a best fit line. [2]\nRelationship between household disposable income and international tourist departures\n35.0\n30.0\n25.0\n20.0\n15.0\n10.0\n5.0\n0.0\n16.0 18.0 20.0 22.0 24.0 26.0 28.0 30.0\nhousehold disposable income (thousand US$ per capita)\nFig. 2.1\n\n)snoillim(\nserutraped\ntsiruot\nlanoitanretni\n\n(iii) Explain how one mobility factor has contributed to the growth of tourism.\n\n [3]\n(b) Study Fig. 2.2 (Insert), which shows a map and four photographs of the Tafraoute area in\nMorocco.\nThe Painted Rocks are in the Anti-Atlas Mountains near Tafraoute.\nWith reference to Fig. 2.2:\n(i) suggest how tourism at the Painted Rocks could damage the local environment.\n\n [3]\n\n(ii) explain how tourism impacts the local economy.\n\n [5]\n[Total: 15]",
+      "matched_clusters": [
+        "Cluster 2: Tourism"
+      ],
+      "matched_topics": [
+        "Cluster 2 Topic 2.1: What is tourism and impacts of tourism?",
+        "Cluster 2 Topic 2.2: What led to the growth of tourism?",
+        "Cluster 2 Topic 2.3: How does tourism affect the economies of places?"
+      ],
+      "assessment_objectives": [
+        "AO1",
+        "AO2"
+      ],
+      "alignment_score": 5.0,
+      "alignment_strength": "Strong",
+      "alignment_explanation": "The question aligns strongly with the syllabus by addressing the growth of tourism through factors like disposable income and mobility, as well as the economic and environmental impacts of tourism. It tests knowledge and understanding of tourism systems and their impacts, as well as skills in data interpretation and graphical representation.",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "chunk_id": 28,
+          "similarity": 0.7018065452575684,
+          "text": "tions  \n(b) use line graphs to show trends and relationships between two \nvariables  \n \n3 \nPhotographs and texts \n(a) use satellite and aerial images to display spatial information \n(b) use colour-coded quotations and word clouds to represent qualitative \nanalyses\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n14 \nCluster 2: Tourism  \n \nTourism is a complex and multi-dimensional phenomenon that is best understood as a system. Tourism \nactivity consists of flows of people and goods and services between places. These flows are interdependent, \nexisting within a wider system. Tourism benefits and harms people and nature across different scales. As \nplaces are unique, sustainable tourism development cannot be achieved using a one-size-fits-all approach. \nStrategies to benefit from tourism and solutions to address problems caused by tourism would need to be \nadapted to suit different contexts."
+        },
+        {
+          "rank": 2,
+          "chunk_id": 31,
+          "similarity": 0.662289559841156,
+          "text": "e, communities and economies in \ntheir local environment and beyond \n(b) changes to one part of the tourism system affect the local and wider \nenvironment, and vice versa \n2 What led to the growth of \ntourism? \n1 \nMotivation to travel  \n(a) individuals seeking relaxation, self-fulfilment and unique travel \nexperiences \n(b) made possible by growth in individuals\u2019 incomes  \n \n2 \nAbility to travel  \n(a) growth in disposable incomes and increased leisure time due to paid \nvacation. \n(b) facilitated by business innovations, lower transport costs and \naccommodation costs \n \n3 \nMobility in travel \n(a) expansion of public transport services and infrastructure, and new \nmodes of air, land and sea travel  \n(b) increased private car ownership improving travel convenience to \nnearby locations\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n15 \nKey Questions \nContent \n3 How do tourist destination \nregio"
+        },
+        {
+          "rank": 3,
+          "chunk_id": 29,
+          "similarity": 0.6369777917861938,
+          "text": "proach. \nStrategies to benefit from tourism and solutions to address problems caused by tourism would need to be \nadapted to suit different contexts. \n \nTOPIC 2.1: TOURISM ACTIVITY \n \nAbout this Topic \n \nThe components of the tourism system span the globe, connecting communities and economies from \ndifferent parts of the world. Its efficient functioning depends on the maintenance of the relationship between \ntourist generating and tourist destination regions. Tourist arrivals was about 25 million in 1950. About 60 \nyears later, it exceeded 1 billion as the motivation and ability of individuals to travel increased. The tourism \nboom resulted in the transformation of many places, as they evolve as tourist destination regions, attracting \ntourists with different personality characteristics at different stages of their life cycle.   \n \nKey Questions \nContent \n1 What is a tourism system? \n1"
+        },
+        {
+          "rank": 4,
+          "chunk_id": 44,
+          "similarity": 0.635116696357727,
+          "text": "ude the inability to significantly reduce poverty as \ncompared to direct investment in social services  \n4 How might tourism \ncontinue to develop \nsustainably? \n1 \nSustainable tourism production \n(a) when demands on ecosystem services do not exceed the supply of \nresources \n(b) when different stakeholders adopt a long-term responsible and \ncoordinated approach instead of short-term profit.  \n \n2 \nSustainable tourism consumption \n(a) when destination regions manage demand and tourism is consumed \nresponsibly by tourists  \n(b) when policies give local communities primary attention while \nconsidering needs of tourists \n \n3 \nEquitable distribution of tourism benefits \n(a) effective tourism management to ensure benefits are enjoyed by all \n(b) minimising negative trade-offs within or between economic, social \nand environmental dimensions\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n20 \nCluste"
+        },
+        {
+          "rank": 5,
+          "chunk_id": 36,
+          "similarity": 0.6219643354415894,
+          "text": "ence of new experiences including adventure, heritage, sports \nand health tourism \n  \n3 \nDiversity in tourism supply \n(a) small specialist operators adding to services of mass market tour \noperators   \n(b) tourism marketing changing from traditional print and broadcast \nmedia to new online media  \n2 How does tourism affect \nthe economies of places? \n1 \nEconomic impact in the tourism system \n(a) tourist generating and destination regions operate interdependently in \nthe tourism system \n(b) tourism\u2019s impact on the economy is experienced more significantly at \ntourist destination regions \n \n2 \nPositive economic impact \n(a) increased employment in the formal and informal tourism sectors at \ntourist generating and destination regions \n(b) higher income generated from tourists\u2019 spending on consumer goods \nand services especially at tourist destination regions \n \n3 \nNegative economic impact  \n("
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "3 Cluster 3: Climate\n(a) (i) Describe the differences in rainfall between tropical equatorial and cool temperate\nclimates.\n\n [2]\n(ii) Explain why rainfall and temperature differ between tropical equatorial and cool\ntemperate climates.\n\n [4]\n\n(b) Study Figs. 3.1 and 3.2 (Insert), which show the countries most at risk from climate change\nand the share of carbon dioxide emissions in 2020 by country.\n\u2018International agreements will slow down climate change more effectively than national and\nlocal initiatives.\u2019\nWith reference to Figs. 3.1 and 3.2, to what extent do you consider this statement to be true?\nExplain your answer.\n\n [9]\n[Total: 15]\n\nAdditional page\nIf you use the following page to complete the answer(s) to any question(s), the question number(s)\nmust be clearly shown.\n\nAdditional page\nIf you use the following page to complete the answer(s) to any question(s), the question number(s)\nmust be clearly shown.\n\nCopyright Acknowledgements:\nQuestion 1 Fig. 1.1 \nQuestion 1 Fig. 1.2 \nQuestion 2 Table 2.1 \nQuestion 2 Fig. 2.1 \nsm_outbound\nQuestion 2 Fig. 2.2 \nQuestion 2 Fig. 2.2 \ndata=!3m8!1e2!3m6!1sAF1QipOEgtrqTNHkZI-_YlcVa5vTsbQC81IlbQsCOq8!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.\ncom%2Fp%2FAF1QipOEgtrqTNHkZI-_YlcVa5vTsbQC81IlbQsCOq8%3Dw203-h152-k-no!7i960!8i720!4m5!3m4!1s0xdb6b078ae9bd\nfb3:0x689aec6672f92ebd!8m2!3d29.672336!4d-8.9728565\nQuestion 2 Fig. 2.2 J F Brake \nQuestion 2 Fig. 2.2 J F Brake \nQuestion 3 Fig. 3.1 \nintelligentliving.co/maps-countries-survive-climate-change/\nQuestion 3 Fig. 3.2 \n\nlicenses/by/4.0/deed.en_US\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every\nreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the\npublisher will be pleased to make amends at the earliest possible opportunity.\nCambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge\nLocal Examinations Syndicate (UCLES), which is a department of the University of Cambridge.",
+      "matched_clusters": [
+        "Cluster 3: Climate"
+      ],
+      "matched_topics": [
+        "Cluster 3 Topic 3.1: Weather and Climate",
+        "Cluster 3 Topic 3.2: How do anthropogenic factors contribute to climate change?",
+        "Cluster 3 Topic 3.3: How might climate change affect natural systems?",
+        "Cluster 3 Topic 3.4: How effective are adaptation strategies in building a community\u2019s resilience to climate change?"
+      ],
+      "assessment_objectives": [
+        "AO1",
+        "AO2",
+        "AO3"
+      ],
+      "alignment_score": 5.0,
+      "alignment_strength": "Strong",
+      "alignment_explanation": "The question aligns strongly with Cluster 3: Climate, specifically addressing differences in climate types (Topic 3.1), anthropogenic factors affecting climate (Topic 3.2), impacts of climate change (Topic 3.3), and the effectiveness of international agreements as a mitigation strategy (Topic 3.4). It tests AO1 through knowledge of climate differences, AO2 through explanation of these differences, and AO3 through evaluation of international agreements versus local initiatives.",
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "chunk_id": 9,
+          "similarity": 0.6413533091545105,
+          "text": "ks) \n\u2022 \nQuestion 3: \nCluster 3 \u2013 Climate (15 marks) \n \nEach structured question will consist of no more than 9 sub-parts. \n \nCandidates will be required to answer one 9-mark question testing AO3 in either \nQuestion 2 or Question 3. This question will be marked using generic level \ndescriptors. All other questions in this paper will be point-marked.  \n \n* Question 1 is on fieldwork. The fieldwork context may or may not be based on any of \nthe clusters in the syllabus. \nPaper 2 \n \n1h 45min \n \n50 marks \n \n50% \nCandidates answer three compulsory structured questions.  \n \n\u2022 \nQuestion 1: Cluster 1 \u2013 Geography in Everyday Life (Topics 1.1 and 1.2)  \n(15 marks)  \n\u2022 \nQuestion 2: Cluster 4 \u2013 Tectonics (15 marks) \n\u2022 \nQuestion 3: Cluster 5 \u2013 Singapore (20 marks) \n \nEach structured question will consist of no more than 9 sub-parts. \n \nCandidates will be required to answer one 9-mark question testing"
+        },
+        {
+          "rank": 2,
+          "chunk_id": 53,
+          "similarity": 0.5710347890853882,
+          "text": "enhouse effect \n(a) burning of fossil fuels  \n(b) changing land use \n3 How might climate change \naffect natural systems? \n1 \nImpact of climate change on natural systems  \n(a) increase in ocean surface temperatures and changes to ocean \ncirculations \n(b) increase in atmospheric temperatures and changes in precipitation \non land \n \n2 \nImpact of climate change on aquatic ecosystems \n(a) threatens coral reefs and disruption of marine food webs \n(b) ocean acidification  \n \n3 \nImpact of climate change on terrestrial ecosystems  \n(a) threatens flora and fauna  \n(b) increase in extreme weathers including droughts and excessive \nrainfall\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n23 \nKey Questions \nContent \n4 \nHow might climate change \naffect human systems? \n1 \nImpact of climate change on human systems  \n(a) geographically uneven due to varying climate variables and localised \neconomic and soci"
+        },
+        {
+          "rank": 3,
+          "chunk_id": 58,
+          "similarity": 0.5660309195518494,
+          "text": "uce greenhouse gas emissions  \n(a) international agreements and cooperation, and use of low-carbon \ntechnologies \n(b) use of clean energy sources and changes in consumption patterns \n \n3 \nMitigation strategies that enhance carbon sinks  \n(a) protection of oceans and forests through land-use change \n(b) protection of forests through forest regeneration\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n25 \nKey Questions \nContent \n4 \nHow effective are \nadaptation strategies in \nbuilding a community\u2019s \nresilience to climate \nchange? \n1 \nAdaptation strategies  \n(a) require actions to lessen harm brought about by climate change \n(b) effectiveness limited by technological, economic, social and \ninstitutional challenges \n \n2 \nAdaptation strategies involving structural and technological approaches  \n(a) water and flood management \n(b) use of technology to produce food  \n \n3 \nAdaptation strategies invo"
+        },
+        {
+          "rank": 4,
+          "chunk_id": 52,
+          "similarity": 0.5613227486610413,
+          "text": "raction of main climatic zones  \n \n3 \nClimate variability due to natural processes \n(a) changes in Earth\u2019s orbit and angle of tilt  \n(b) occurrences of sunspots and large-scale volcanic eruptions \n2 How do anthropogenic \nfactors contribute to \nclimate change? \n1 \nGrowth in population and industrialisation \n(a) altered quantity of greenhouse gases in the atmosphere including \ncarbon dioxide, methane and nitrous oxide \n(b) data from the last decade has shown it to have been successively \nwarmer than any of the preceding decades since 1850 \n  \n2 \nCauses of the greenhouse effect  \n(a) a natural process making Earth habitable \n(b) involves absorption and emission of shortwave and longwave \nradiation, respectively \n \n3 \nCauses of the enhanced greenhouse effect \n(a) burning of fossil fuels  \n(b) changing land use \n3 How might climate change \naffect natural systems? \n1 \nImpact of climate change"
+        },
+        {
+          "rank": 5,
+          "chunk_id": 45,
+          "similarity": 0.5602997541427612,
+          "text": "inimising negative trade-offs within or between economic, social \nand environmental dimensions\n\n2279 GEOGRAPHY GCE ORDINARY LEVEL SYLLABUS \n20 \nCluster 3: Climate  \n \nClimate change is not new. Earth\u2019s climate has changed in response to the varying amounts of energy from \nthe Sun and the evolving atmospheric composition. This has occurred over timescales ranging from millions \nto hundreds of years. Today, changes in the climate have been exacerbated due to anthropogenic activities. \nThe climate system is part of the natural system that is interconnected with the human system. Hence, \nchanges in one part of the system affect another, impacting people and nature. Climate action could build \nour resilience to the effects of climate change, but it requires active participation from many stakeholders.   \n \n \nTOPIC 3.1: WEATHER AND CLIMATE \n \nAbout this Topic \n \nWeather and climate are closely"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_questions": 3,
+    "cluster_weightage": {
+      "Cluster 1: Geography in Everyday Life": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 2: Tourism": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 3: Climate": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      }
+    },
+    "topic_weightage": {
+      "Cluster 1 Topic 1.1: Geographical Methods": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 2 Topic 2.1: What is tourism and impacts of tourism?": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 2 Topic 2.2: What led to the growth of tourism?": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 2 Topic 2.3: How does tourism affect the economies of places?": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 3 Topic 3.1: Weather and Climate": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 3 Topic 3.2: How do anthropogenic factors contribute to climate change?": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 3 Topic 3.3: How might climate change affect natural systems?": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      },
+      "Cluster 3 Topic 3.4: How effective are adaptation strategies in building a community\u2019s resilience to climate change?": {
+        "count": 1,
+        "proportion": 0.3333333333333333
+      }
+    },
+    "assessment_objectives_distribution": {
+      "AO1": 3,
+      "AO2": 3,
+      "AO3": 1
+    }
+  }
+}
